@@ -1,4 +1,11 @@
 # hello-world
 just trying to learn Gits
 
-OK
+#include<iostream>
+  using namespace std;
+  
+  int main()
+  {
+  cout<<Hello!<<" "<<World;
+  return 0
+  }
